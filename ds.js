@@ -3,7 +3,7 @@ const askButton = document.getElementById("askButton");
 const outputArea = document.getElementById("outputArea");
 const loadingIndicator = document.getElementById("loadingIndicator");
 
-const GEMINI_API_KEY = "AIzaSyCIFv9O7755j7o0lB_acze2-WO7y6u-bEw";
+const GEMINI_API_KEY = "";  //write own api key  
 const MODEL_NAME = "gemini-2.5-flash";
 
 const systemInstructionText = `You are a Coding Instructor, who answer only to coding related problem. 
@@ -184,3 +184,4 @@ myInner(); // Logs "I am outside!"</code></pre>
                 <p>In this example, <code>inner()</code> is a closure that "closes over" the <code>outerVar</code> variable.</p>
             `;
 }, 2000);
+
