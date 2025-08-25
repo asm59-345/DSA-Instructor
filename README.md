@@ -58,10 +58,3 @@ Welcome to the DSA Instructor Chatbot — a sleek, responsive web-based assistan
 🔗 [LinkedIn](https://www.linkedin.com/in/ashmit-gautam-8a5aa3269)  
 💻 [GitHub](https://github.com/)  
 📸 [Instagram](https://instagram.com/)
-
-> “Ask me about DSA. Anything else? Prepare for sass.”  
-> — Your friendly, grumpy chatbot
-
-
-
-Let me know if you'd like a version with badges, deployment instructions (e.g. GitHub Pages or Vercel), or a logo. I can also help you write a CONTRIBUTING.md or set up issues and labels for collaboration.
