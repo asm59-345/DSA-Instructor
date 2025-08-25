@@ -1,4 +1,3 @@
-Absolutely, Ashmit! Here's a well-structured and engaging README file tailored for your DSA Instructor Chatbot project. It highlights the tech stack, features, setup instructions, and even includes a touch of personality to match the vibe of your UI.
 # ⚡ DSA Instructor Chatbot
 
 Welcome to the DSA Instructor Chatbot — a sleek, responsive web-based assistant built to help users master Data Structures and Algorithms. Designed with TailwindCSS and powered by Gemini 2.5 Flash API, this chatbot delivers fast, focused, and sometimes hilariously rude responses to off-topic questions (by design 😈).
