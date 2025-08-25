@@ -97,23 +97,6 @@ askButton.addEventListener("click", async () => {
           }
         }
       );
-
-      document
-        .getElementById("nav-history")
-        .addEventListener("click", () =>
-          alert("📜 History: See your previous chats soon!")
-        );
-      document
-        .getElementById("nav-settings")
-        .addEventListener("click", () =>
-          alert("⚙ Settings: Customize chatbot coming soon!")
-        );
-      document
-        .getElementById("nav-tutorial")
-        .addEventListener("click", () =>
-          alert("📘 Tutorial: Learn DSA step by step!")
-        );
-
       // Convert line breaks to paragraphs for better readability
       const paragraphs = formattedText.split("\n\n");
       let htmlOutput = "";
@@ -184,4 +167,5 @@ myInner(); // Logs "I am outside!"</code></pre>
                 <p>In this example, <code>inner()</code> is a closure that "closes over" the <code>outerVar</code> variable.</p>
             `;
 }, 2000);
+
 
